@@ -2,8 +2,6 @@
 
 ## Description
 
-These are my dotfiles for my Void GNU/Linux rice.
-
 1. Settings for:
     - alacritty
     - dunst
@@ -42,48 +40,39 @@ These are my dotfiles for my Void GNU/Linux rice.
 
 ## Packages
 
-The following is a list of required and recommended packages to go along with these dotfiles.
+The following is a list of recommended packages to go along with these dotfiles.
 
-### Required
-
-- alacritty
-- dunst
-- fontconfig
-- gtk+
-- gtk+3
-- gtk4
-- picom
-- pipewire
-- pkg-config
-- qt5-styleplugins
-- [qt6gtk](https://github.com/trialuser02/qt6gtk2)
-- qt6-base-private-devel
+- NetworkManager
+- ReText
 - Thunar
-- xorg-minimal
-- xrandr
-- xrdb
-- zsh
-
-### Recommended
-
+- alacritty
 - brightnessctl
 - davfs2
-- [dmenu](https://tools.suckless.org/dmenu/)
+- dmenu
+- dunst
 - [dwm](https://gitlab.com/redst0ner/dwm)
 - elogind
 - feh
 - file-roller
 - firefox
+- fontconfig
+- gtk+
+- gtk+3
+- gtk4
 - gvfs
 - gvfs-gphoto2
 - gvfs-mtp
 - mpv
 - nano
 - network-manager-applet
-- NetworkManager
 - okular
+- picom
+- pipewire
+- pkg-config
 - qbittorrent
-- ReText
+- qt5-styleplugins
+- qt6-base-private-devel
+- [qt6gtk](https://github.com/trialuser02/qt6gtk2)
 - seahorse
 - setxkbmap
 - [slock](https://tools.suckless.org/slock/)
@@ -95,4 +84,8 @@ The following is a list of required and recommended packages to go along with th
 - xfce-polkit
 - xfce4-clipman-plugin
 - xfce4-screenshooter
+- xorg-minimal
+- xrandr
+- xrdb
 - xss-lock
+- zsh
