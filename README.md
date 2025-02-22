@@ -50,7 +50,7 @@ The following is a list of recommended packages to go along with these dotfiles.
 - davfs2
 - dmenu
 - dunst
-- [dwm](https://gitlab.com/redst0ner/dwm)
+- [dwm](https://github.com/stvka1/dwm)
 - elogind
 - feh
 - file-roller
