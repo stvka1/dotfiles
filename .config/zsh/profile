@@ -1,0 +1,24 @@
+#!/bin/sh
+
+# Default applications
+export PATH="$PATH:$(find ~/.local/bin -type d | paste -sd ':' -)"
+export EDITOR="nano"
+export TERMINAL="alacritty"
+export BROWSER="firefox"
+
+# XDG configuration
+export XDG_CONFIG_HOME="$HOME/.config"
+export XDG_DATA_HOME="$HOME/.local/share"
+export XDG_CACHE_HOME="$HOME/.cache"
+
+# X11 configuration
+export XINITRC="$XDG_CONFIG_HOME/x11/xinitrc"
+
+# Zsh configuration
+export ZDOTDIR="$XDG_CONFIG_HOME/zsh"
+
+# Additional configuration
+export GTK_THEME=Mint-Y-Dark
+export GTK2_RC_FILES="$HOME/.config/gtk-2.0/gtkrc-2.0"
+export XCURSOR_PATH="$HOME/.local/share/icons"
+export QT_QPA_PLATFORMTHEME=gtk2

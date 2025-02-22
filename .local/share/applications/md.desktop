@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Markdown Editor
+Exec=retext %U

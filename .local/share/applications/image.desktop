@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Image Viewer
+Exec=feh --start-at %u

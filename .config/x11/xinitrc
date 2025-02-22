@@ -1,0 +1,4 @@
+xrandr --setprovideroutputsource modesetting NVIDIA-0
+xrandr --output eDP-1-1 --mode 1920x1080 --rate 60
+xrdb $XDG_CONFIG_HOME/x11/xresources
+exec dbus-run-session dwm

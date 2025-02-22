@@ -1,0 +1,2 @@
+#/bin/sh
+feh --no-fehbg --bg-fill ~/.local/bin/dwm/void2.png
