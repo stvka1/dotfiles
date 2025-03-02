@@ -54,7 +54,6 @@ The following is a list of recommended packages to go along with these dotfiles.
 - elogind
 - feh
 - file-roller
-- firefox
 - fontconfig
 - gtk+
 - gtk+3
@@ -62,6 +61,7 @@ The following is a list of recommended packages to go along with these dotfiles.
 - gvfs
 - gvfs-gphoto2
 - gvfs-mtp
+- [librewolf](https://github.com/index-0/librewolf-void)
 - mpv
 - nano
 - network-manager-applet
