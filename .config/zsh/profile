@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Default applications
-export PATH="$PATH:$(find ~/.local/bin -type d | paste -sd ':' -)"
+export PATH="$HOME/.local/bin:$PATH"
 export EDITOR="nano"
 export TERMINAL="alacritty"
 export BROWSER="librewolf"

@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/bin/fastfetch --color green --structure OS:Kernel:Uptime:Packages:separator:Display:WM:Theme:Icons:Terminal:Shell:Terminalfont:separator:CPU:GPU:Memory --logo-color-2 white
