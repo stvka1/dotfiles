@@ -53,6 +53,7 @@ The following is a list of recommended packages to go along with these dotfiles.
 - [dwm](https://github.com/stvka1/dwm)
 - elogind
 - feh
+- ffmpegthumbnailer
 - file-roller
 - fontconfig
 - gtk+
@@ -81,6 +82,7 @@ The following is a list of recommended packages to go along with these dotfiles.
 - thunar-archive-plugin
 - thunar-volman
 - thunderbird
+- tumbler
 - xfce-polkit
 - xfce4-clipman-plugin
 - xfce4-screenshooter
